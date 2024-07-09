@@ -9,6 +9,7 @@ public class ChatBot{
             "Why don't scientists trust atoms? Because they make up everything!",
             "Why did the scarecrow win an award? Because he was outstanding in his field!",
             "Why don't skeletons fight each other? They don't have the guts."
+            "Light travels faster than sound, which is the reason that some people appear bright before you hear them speak."   
     );
     private static final List<String> STORIES = new ArrayList<>();
     public static void main(String[] args){
